@@ -1,0 +1,2 @@
+mc jar url: http://s3.amazonaws.com/Minecraft.Download/versions/{mc_ver}/{mc_ver}.jar
+srg url: http://export.mcpbot.bspk.rs/mcp/{mc_ver}/mcp-{mc_ver}-srg.zip
